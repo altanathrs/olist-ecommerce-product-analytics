@@ -27,7 +27,17 @@ The analysis addresses the following questions:
 * **Jupyter Notebook** — analytical workflow
 
 ## Key Findings
+## Project Highlights
 
+| Metric | Result |
+|---|---:|
+| GMV–Orders correlation | **0.990** |
+| Average review score, <3 days delivery | **4.48** |
+| Average review score, 14+ days delivery | **3.72** |
+| Negative reviews, <3 days delivery | **6.64%** |
+| Negative reviews, 14+ days delivery | **22.59%** |
+| Orders in São Paulo (SP) | **41,746** |
+| Top GMV category | **beleza_saude — ~1.26M** |
 ### Sales Performance
 
 GMV generally increased during the main observation period, although the growth was not continuous.
