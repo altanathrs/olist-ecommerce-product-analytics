@@ -26,7 +26,7 @@ The analysis addresses the following questions:
 * **Matplotlib** — data visualization
 * **Jupyter Notebook** — analytical workflow
 
-## Key Findings
+
 ## Project Highlights
 
 | Metric | Result |
